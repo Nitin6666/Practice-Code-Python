@@ -1,0 +1,1 @@
+#If the two friend name were same so the latest one was stored in the dictionary this mean that the dictionary have unique keys 

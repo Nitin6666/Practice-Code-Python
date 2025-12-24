@@ -1,0 +1,1 @@
+#If the two friends language were same so they were stored in the dictionary without any error this mean that the dictionary support same values and different keys 
